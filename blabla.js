@@ -1,3 +1,5 @@
-console.log();
+import moduleName from 'ee';
 
-console.log();
+console.log(2);
+
+console.clear();
